@@ -29,12 +29,13 @@ import { configureAlerts, updateAlerts } from "./alerts.js";
 // ═══════════════════════════════════════════════════════════
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyAUzjxlxlnS2A__KAEutLxIP_pEJR-cwOg",
+  authDomain: "adir-2c6b3.firebaseapp.com",
+  databaseURL: "https://adir-2c6b3.firebaseio.com",
+  projectId: "adir-2c6b3",
+  storageBucket: "adir-2c6b3.appspot.com",
+  messagingSenderId: "458317251512",
+  appId: "1:458317251512:web:0425d76bc705f10f09854d"
 };
 
 // ═══════════════════════════════════════════════════════════
